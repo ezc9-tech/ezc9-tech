@@ -11,6 +11,7 @@ I'm **Zane Chapman**, a passionate fullstack developer interested in building us
 - 🔭 I’m working on:
     - Mini Weekly React Projects for my web 102 course
     - A 30 day backend challenge to help me learn the concepts of backend development
+    - A leetcode journey repo to help other as well as myself learn DSA
     
 - 👯 I’m looking to collaborate on: Open-source & interesting projects
   
