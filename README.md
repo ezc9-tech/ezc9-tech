@@ -25,7 +25,6 @@ I'm **Zane Chapman**, a passionate fullstack developer interested in building us
 - Tools: Git, VS Code, Github, Jira, etc.
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezc9-tech&show_icons=true&theme=default)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ezc9-tech&theme=sakura-x&border_radius=10&short_numbers=true&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ## 🔗 Connect with Me
